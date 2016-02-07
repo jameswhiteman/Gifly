@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Speech to Text Browser Application
 
   The [Speech to Text][service_url] service uses IBM's speech recognition capabilities to convert speech in multiple languages into text. The transcription of incoming audio is continuously sent back to the client with minimal delay, and it is corrected as more speech is heard. The service is accessed via a WebSocket interface; a REST HTTP interface is also available;
@@ -138,3 +139,6 @@ To do that, add '?debug=true' (without the quotations) in the URL.
 [getting_started]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/
 [sign_up]: https://console.ng.bluemix.net/registration/
 [browserify]: http://browserify.org/
+=======
+# gifly
+>>>>>>> 439a6f27a6581611a941db13a36e53b8f1203050

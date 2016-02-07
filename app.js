@@ -29,8 +29,8 @@ require('./config/express')(app);
 var config = extend({
   version: 'v1',
   url: 'https://stream.watsonplatform.net/speech-to-text/api',
-  username: '<username>',
-  password: '<password>'
+  username: 'cbb9fb87-88bf-4672-adf8-6fb68806e189',
+  password: 'sy2IOx5zSaVk'
 }, vcapServices.getCredentials('speech_to_text'));
 
 var authService = watson.authorization(config);
